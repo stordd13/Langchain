@@ -1,0 +1,1 @@
+Some work to get a basic understanding of langchain and llms, using openAI and hugginface apis
